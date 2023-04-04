@@ -59,6 +59,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Authentication]**
+- **[Authorization]**
 - **[Create Recipe]**
 - **[Create Food]**
 
